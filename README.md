@@ -4,4 +4,4 @@ This Tableau project provides an interactive sales performance analysis for Adid
 
 ## 📊 Dashboard Preview
 
-![Adidas Sales Dashboard](./dasshboard.jpg)
+![Adidas Sales Dashboard](./dashboard.jpg)
